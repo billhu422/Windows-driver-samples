@@ -234,8 +234,8 @@ DEVICE_GUID_LIST gDeviceList;
 
 PCHAR ConnectionStatuses[] =
 {
-    "NoDeviceConnected",  // 0  - NoDeviceConnected
-    "DeviceConnected",    // 1  - DeviceConnected
+    "NoDeviceConnected",                   // 0  - NoDeviceConnected
+    "DeviceConnected",                   // 1  - DeviceConnected
     "FailedEnumeration",  // 2  - DeviceFailedEnumeration
     "GeneralFailure",     // 3  - DeviceGeneralFailure
     "Overcurrent",        // 4  - DeviceCausedOvercurrent
